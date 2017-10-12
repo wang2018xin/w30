@@ -1,3 +1,15 @@
-
 bankend/.metadata
 bankend/RemoteSystemsTempFiles
+
+
+bankend/w30-common/.settings
+bankend/w30-common/target
+
+bankend/w30-manager/.settings
+bankend/w30-manager/target
+
+bankend/w30-manager/*/.settings
+bankend/w30-manager/*/target
+
+.project
+.classpath
